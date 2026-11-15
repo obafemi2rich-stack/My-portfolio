@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Obafemi | My Portfolio</title>
+
+<link rel="stylesheet" href="style.css">
+
+</head>
+
+<body>
+
+<header>
+    <h1>Obafemi's Portfolio</h1>
+
+    <nav>
+        <a href="#about">About</a>
+        <a href="#skills">Skills</a>
+        <a href="#projects">Projects</a>
+        <a href="#contact">Contact</a>
+    </nav>
+</header>
+
+<main>
+
+    <section id="about">
+        <h2>About Me</h2>
+        <p>
+            Hello! My name is Obafemi. I am a secondary school
+            student passionate about technology, creativity
+            and learning new things.
+        </p>
+    </section>
+
+    <section id="skills">
+        <h2>My Skills</h2>
+        <ul>
+            <li>Problem Solving</li>
+            <li>Creativity</li>
+            <li>Communication</li>
+            <li>Basic Computer Skills</li>
+        </ul>
+    </section>
+
+    <section id="projects">
+        <h2>My Projects</h2>
+
+        <div class="project">
+            <h3>My First Website</h3>
+            <p>A personal portfolio website built using HTML and CSS.</p>
+        </div>
+
+        <div class="project">
+            <h3>Future Projects</h3>
+            <p>More exciting technology projects coming soon!</p>
+        </div>
+    </section>
+
+    <section id="contact">
+        <h2>Contact Me</h2>
+        <p>Email: your-email@example.com</p>
+        <p>Location: Nigeria</p>
+    </section>
+
+</main>
+
+<footer>
+    <p>&copy; 2026 Obafemi. All rights reserved.</p>
+</footer>
+
+</body>
+</html>
